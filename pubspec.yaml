@@ -1,4 +1,4 @@
-name: CanvasTest
+name: FlyingMonsters
 description: A sample web application
 dependencies:
   browser: any
